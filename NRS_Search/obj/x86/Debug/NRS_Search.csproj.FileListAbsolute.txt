@@ -1,0 +1,40 @@
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\NRS_Search.exe
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\NRS_Search.pdb
+D:\Krishanu Maity\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.Properties.Resources.resources
+D:\Krishanu Maity\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.csproj.GenerateResource.Cache
+D:\Krishanu Maity\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.exe
+D:\Krishanu Maity\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.pdb
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\ImageHeaven.dll
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\NovaNet.Utils.dll
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\Interop.ClearImage.dll
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\ImageHeaven.pdb
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\NovaNet.Utils.pdb
+D:\Krishanu Maity\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.csprojResolveAssemblyReference.cache
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\NovaNet.wfe.dll
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\NovaNet.wfe.pdb
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\nControls.dll
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\DgvFilterPopup.dll
+D:\Krishanu Maity\NRS_Search\NRS_Search\bin\Debug\nControls.pdb
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NRS_Search.exe
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NRS_Search.pdb
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\ImageHeaven.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NovaNet.wfe.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\nControls.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\Interop.ClearImage.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\DgvFilterPopup.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\ImageHeaven.pdb
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NovaNet.wfe.pdb
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\NovaNet.wfe.dll.config
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\bin\Debug\nControls.pdb
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.csprojAssemblyReference.cache
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.Properties.Resources.resources
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.csproj.GenerateResource.cache
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.csproj.CoreCompileInputs.cache
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.csproj.CopyComplete
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.exe
+C:\Users\SandhiS\Desktop\NRS_Search\NRS_Search\obj\x86\Debug\NRS_Search.pdb
